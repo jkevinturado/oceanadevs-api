@@ -7,10 +7,10 @@ Install the libraries first by running the command:<br>
 `npm run install`
 
 ##### Available Scripts:
-<br> `npm run serve`
+<br> `npm run serve`<br>
 Run development or local, watching code changes 
 
-<br> `npm start `
+<br> `npm start `<br>
 run this script for production
 
 ##### API's available: <br>
