@@ -7,20 +7,15 @@ Install the libraries first by running the command:
 `npm run install`
 
 ##### API's available: <br>
-    <ul>
-      <li>authentication: </li>
-       <ul>
-        <li>login</li>
-        <li>logout</li>
-        <li>user session</li>
-      </ul>
-      <li>users:</li>
-       <ul>
-          <li>create</li>
-          <li>get user by id</li>
-          <li>update user</li>
-          <li>get all user</li>
-  </ul>
+- authentication: 
+    - login
+    - logout
+    - user session
+- users:
+    - create
+    - get user by id
+    - update user
+    - get all user
 
-  ##### Current Features:
+##### Current Features:
   - Custom Error Handler
