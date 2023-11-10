@@ -1,7 +1,7 @@
 # oceanadevs-api
 #### by: Kevin Turado
 
-##### Description: A work template built in typescript node and express, configured to use MySQL database and sequelize library 
+##### Description: A work template built in typescript node and express, configured to use MySQL database and sequelize library, See tsconfig config file for typescript.
 
 Install the libraries first by running the command:<br>
 `npm run install`
