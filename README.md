@@ -2,8 +2,8 @@
 #### by: Kevin Turado
 
 ##### Description: A work template built in typescript node and express, configured to use MySQL database and sequelize library and JWT for authentication.
-
-##### Instruction: <br>
+---
+#### Instruction:
 1. See `tsconfig.json` config file for typescript for code reference. <br>
 2. create a `.env` file using this template: <br>
     ```
@@ -25,8 +25,8 @@
 3. Install the libraries by running the command:<br>
 `npm install`
 4. Run available scripts
-
-##### Available Scripts:
+---
+#### Available Scripts:
 - Production: 
 `npm start `<br>
 run this script for production<br>
@@ -34,8 +34,8 @@ run this script for production<br>
 - Development/local: 
 `npm run serve`<br>
 Run development or local, watching code changes using nodemon <br>
-
-##### API's available: <br>
+---
+#### API's available: 
 - authentication: 
     - login
     - logout
@@ -45,6 +45,6 @@ Run development or local, watching code changes using nodemon <br>
     - get user by id
     - update user
     - get all user
-
-##### Current Features:
+---
+#### Current Features:
   - Custom Error Handler
